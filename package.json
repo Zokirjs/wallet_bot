@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.4",
+    "node-telegram-bot-api": "^0.66.0",
+    "string-similarity": "^4.0.4"
+  }
+}
